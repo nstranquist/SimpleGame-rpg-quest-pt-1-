@@ -14,6 +14,6 @@ How To Play:
 - On Mobile, game will work but the music may not
 
 
-Music Credits:
-Lost Woods Dubstep Remix by Ephixa
+Music Credits:  
+Lost Woods Dubstep Remix by Ephixa  
 (creative commons license)
