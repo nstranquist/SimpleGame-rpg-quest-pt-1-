@@ -8,3 +8,12 @@ I wouldn't be surprised if there were a sequel.
 
 \#RPGQuest
 
+How To Play:
+- Arrow Keys to move gameo object
+- Click game window to hear game music
+- On Mobile, game will work but the music may not
+
+
+Music Credits:
+Lost Woods Dubstep Remix by Ephixa
+(creative commons license)
