@@ -1,4 +1,4 @@
-## "Simple Game"   [Live HERE](branson-cant-doit.surge.sh)
+## "Simple Game"   [Live HERE](https://branson-cant-doit.surge.sh)
 A simple game I made using html5 canvas, css, javascript.  
 Later I added some extra touches to so that my friend would be defeated.
 
